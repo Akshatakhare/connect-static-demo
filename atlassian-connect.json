@@ -1,0 +1,22 @@
+{
+  "key": "static-connect-demo",
+  "name": "Static Connect Demo",
+  "baseUrl": "https://github.com/Akshatakhare/connect-static-demo.git",
+  "authentication": {
+    "type": "none"
+  },
+  "modules": {
+    "jira:issuePanel": [
+      {
+        "key": "demo-issue-panel",
+        "name": {
+          "value": "Static Panel"
+        },
+        "url": "/index.html",
+        "location": "atl.jira.view.issue.right.context",
+        "weight": 100
+      }
+    ]
+  },
+  "scopes": []
+}
