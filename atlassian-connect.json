@@ -1,5 +1,5 @@
 {
-  "key": "static-connect-demo",
+  "key": "static-connect-demo-v2",
   "name": "Static Connect Demo",
   "baseUrl": "https://akshatakhare.github.io/connect-static-demo",
   "apiVersion": 1,
@@ -19,6 +19,7 @@
       }
     ]
   },
-  "scopes": []
+  "scopes": ["read:jira-work"]
 }
+
 
