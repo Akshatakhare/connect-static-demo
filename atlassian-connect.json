@@ -1,7 +1,8 @@
 {
   "key": "static-connect-demo",
   "name": "Static Connect Demo",
-  "baseUrl": "https://github.com/Akshatakhare/connect-static-demo.git",
+  "baseUrl": "https://akshatakhare.github.io/connect-static-demo",
+  "apiVersion": 1,
   "authentication": {
     "type": "none"
   },
@@ -20,3 +21,4 @@
   },
   "scopes": []
 }
+
